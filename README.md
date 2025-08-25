@@ -1,5 +1,7 @@
 This repository provides a lightweight environment to demonstrate web server setup and basic load balancing using Docker containers. The stack consists of two web servers (web-01 and web-02) and a load balancer (lb-01) connected to a custom Docker network. Each service runs Ubuntu 24.04 with SSH enabled to allow you to install and configure additional software.
 
+You can find the source code for the app here https://github.com/KelvinAaron/QR-Code-source-code.git
+
 **Requirements**
 Docker and Docker Compose installed on your machine
 At least 2 GB of free RAM and a few hundred megabytes of disk space
